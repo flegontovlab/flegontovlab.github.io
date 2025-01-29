@@ -1,0 +1,11 @@
+title: Flegontov lab
+description: Archaeogenetics of human populations
+
+remote_theme: alshedivat/al-folio
+
+url: https://flegontovlab.github.io/
+baseurl: 
+
+# header_pages:
+#   - people.md
+#   - about.md
