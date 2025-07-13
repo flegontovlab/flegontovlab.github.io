@@ -5,7 +5,8 @@ description:
 img:
 importance: 2
 category: history
-giscus_comments: true
+giscus_comments: false
+related_publications: false
 ---
 
 Our lab has a major research focus on the complex population history of Southeast Asia, a program led by the expertise of Dr. Piya Changmai. This work has illuminated the multiple, overlapping layers of migration and admixture that have formed the region's rich diversity. Our investigations have included a [detailed reconstruction of the genetic history of Kra-Dai speakers in Thailand](https://doi.org/10.1038/s41598-023-35507-8), a project that has been supported by several research grants on which Dr. Changmai is the principal investigator.

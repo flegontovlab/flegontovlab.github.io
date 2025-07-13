@@ -5,7 +5,7 @@ description:
 img:
 importance: 1
 category: history
-related_publications: true
+related_publications: false
 ---
 
 The Flegontov Lab is an active participant in major international consortia tackling some of the most significant questions in human prehistory. We are contributors to the monumental [2025 *Nature* study](https://doi.org/10.1038/s41586-024-08531-5) on "The genetic origin of the Indo-Europeans," which assembled ancient DNA from hundreds of individuals to localize the geographic and ancestral origins of the Yamnaya archaeological complex.
