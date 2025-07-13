@@ -419,16 +419,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-hello-world-our-site-is-still-under-construction-stay-tuned",
+          title: 'Hello world! Our site is still under construction, stay tuned..',
+          description: "",
+          section: "News",},{id: "news-our-latest-paper-was-recently-published-in-nature-sparkles-smile-see-the-press-release-https-prf-osu-cz-31860-nova-geneticka-studie-odhaluje-praveke-koreny-finu-estoncu-a-madaru-in-czech",
+          title: 'Our latest paper was recently published in Nature! :sparkles: :smile: See the [press...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
