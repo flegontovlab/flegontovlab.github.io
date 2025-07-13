@@ -428,7 +428,7 @@ ninja.data = [{
           title: 'Hello world! Our site is still under construction, stay tuned..',
           description: "",
           section: "News",},{id: "news-our-latest-paper-was-recently-published-in-nature-sparkles-smile-see-the-press-release-in-czech",
-          title: 'Our latest paper was recently published in Nature! :sparkles: :smile: See the press...',
+          title: 'Our latest paper was recently published in Nature. :sparkles: :smile: See the press...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
