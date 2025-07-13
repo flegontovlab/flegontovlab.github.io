@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - flegontovlab
+  - pijacekch
+  - janxkoci
+  - altinisik
+  - ulasisik
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - uqrmaie1/admixtools
+  - flegontovlab/qpadm_paper
+  - pijacekch/simple_scripts
+  - janxkoci/PopGen.awk
+  - janxkoci/awesome-evomics

@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Human archaeogenetics. <a href='#'>Affiliations</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Pasha.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>room L244 at Dept. of Biology and Ecology</p>
+    <p>Faculty of Science, University of Ostrava</p>
+    <p>Chittussiho 10, Ostrava, 71000</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Dr. Pavel Flegontov** is the Head of the Laboratory at the University of Ostrava and an Associate in the Department of Human Evolutionary Biology at Harvard University. Recruited to the University of Ostrava in 2013 for his expertise in microbial genomics, he quickly established a second, parallel research direction focused on human population history.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dr. Flegontov's research philosophy is defined by the integration of large-scale genomic data analysis with deep methodological scrutiny and robust interdisciplinary collaboration with archaeologists and linguists. His leadership on the groundbreaking *Nature* paper revising the history of the peopling of the Americas and his ongoing work to build a comprehensive genetic history of Asia exemplify the lab's ambitious scientific vision.
