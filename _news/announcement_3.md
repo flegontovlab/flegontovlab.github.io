@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our latest paper was recently published in [*Nature*](https://doi.org/10.1038/s41586-025-09189-3)! :sparkles: :smile: See the [press release]https://prf.osu.cz/31860/nova-geneticka-studie-odhaluje-praveke-koreny-finu-estoncu-a-madaru/ (in Czech).
+Our latest paper was recently published in [*Nature*](https://doi.org/10.1038/s41586-025-09189-3)! :sparkles: :smile: See the [press release](https://prf.osu.cz/31860/nova-geneticka-studie-odhaluje-praveke-koreny-finu-estoncu-a-madaru/) (in Czech).
