@@ -2,19 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: Human archaeogenetics. <a href='#'>Affiliations</a>.
+subtitle: Uncovering human history through archaeogenetics. <a href='#'>Affiliations</a>.
 
 profile:
   align: right
   image: Pasha.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>room L244 at Dept. of Biology and Ecology</p>
-    <p>Faculty of Science, University of Ostrava</p>
-    <p>Chittussiho 10, Ostrava, 71000</p>
+    <p>Dept. of Biology and Ecology</p>
+    <p>Faculty of Science</p>
+    <p>University of Ostrava</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
