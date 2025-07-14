@@ -430,7 +430,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-the-indo-european-and-african-puzzles",
+            },},{id: "news-here-is-a-press-release-in-czech-for-our-previous-large-study-uncovering-the-story-of-indo-europeans",
+          title: 'Here is a press release (in Czech) for our previous large study uncovering...',
+          description: "",
+          section: "News",},{id: "projects-the-indo-european-and-african-puzzles",
           title: 'The Indo-European and African Puzzles',
           description: "",
           section: "Projects",handler: () => {
