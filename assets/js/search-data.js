@@ -447,6 +447,11 @@ ninja.data = [{
           title: 'Sharpening the Tools',
           description: "Innovations in Computational Genomics",
           section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-genetic-landscapes",
+          title: 'Genetic landscapes',
+          description: "Shifting from graph-shaped histories to stepping-stone landscapes",
+          section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
         id: 'social-email',
