@@ -419,18 +419,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-hello-world-our-site-is-still-under-construction-stay-tuned",
           title: 'Hello world! Our site is still under construction, stay tuned..',
           description: "",
           section: "News",},{id: "news-our-latest-paper-was-recently-published-in-nature-sparkles-smile-see-the-press-release-in-czech",
           title: 'Our latest paper was recently published in Nature. :sparkles: :smile: See the press...',
           description: "",
-          section: "News",},{id: "projects-the-indo-european-and-african-puzzles",
+          section: "News",},{id: "news-new-genetic-study-traces-the-roots-of-the-prehistoric-populations-ancestral-to-present-day-finns-estonians-hungarians-and-related-peoples-in-russia",
+          title: 'New genetic study traces the roots of the prehistoric populations ancestral to present-day...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-the-indo-european-and-african-puzzles",
           title: 'The Indo-European and African Puzzles',
           description: "",
           section: "Projects",handler: () => {
