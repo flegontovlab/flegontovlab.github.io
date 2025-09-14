@@ -14,15 +14,13 @@ profiles:
     content: about_pasha.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>room L244 at Dept. of Biology and Ecology</p>
-      <p>Faculty of Science, University of Ostrava</p>
-      <p>Chittussiho 10, Ostrava, 71000</p>
+      <p>Dr. Pavel Flegontov</p>
+      <p>University of Ostrava</p>
   - align: left
     image: Piya.png
     content: about_piya.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>room L244 at Dept. of Biology and Ecology</p>
-      <p>Faculty of Science, University of Ostrava</p>
-      <p>Chittussiho 10, Ostrava, 71000</p>
+      <p>Dr. Piya Changmai</p>
+      <p>University of Ostrava</p>
 ---
