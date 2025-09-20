@@ -482,6 +482,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=xw-IjpcAAAAJ", "_blank");
         },
       },{
+        id: 'social-scopus',
+        title: 'Scopus',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.scopus.com/authid/detail.uri?authorId=12770450200", "_blank");
+        },
+      },{
         id: 'social-work',
         title: 'Work',
         section: 'Socials',
