@@ -489,6 +489,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=xw-IjpcAAAAJ", "_blank");
         },
       },{
+        id: 'social-work',
+        title: 'Work',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://prf.osu.cz/kbe/pavel-flegontov/65957/", "_blank");
+        },
+      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
