@@ -16,28 +16,28 @@
   },
   "work": [
     {
-      "company": "University of Ostrava",
+      "name": "University of Ostrava",
       "position": "Associate Professor / Group Leader",
-      "website": "https://www.osu.cz",
-      "startDate": "2013-10",
+      "url": "https://www.osu.cz",
+      "startDate": "2013-10-01",
       "endDate": "",
       "summary": "Teaching and research in population genetics and ancient DNA; supervising students and leading projects.",
       "highlights": []
     },
     {
-      "company": "Harvard University (Harvard Medical School / Reich Lab association)",
+      "name": "Harvard University (Harvard Medical School / Reich Lab association)",
       "position": "Associate (affiliated researcher)",
-      "website": "https://reich.hms.harvard.edu",
-      "startDate": "2022-01",
+      "url": "https://reich.hms.harvard.edu",
+      "startDate": "2022-01-01",
       "endDate": "",
       "summary": "Collaborative research in ancient genomics and population history.",
       "highlights": []
     },
     {
-      "company": "Biology Centre of the Czech Academy of Sciences",
+      "name": "Biology Centre of the Czech Academy of Sciences",
       "position": "Research assistant",
-      "website": "https://www.bc.cas.cz",
-      "startDate": "2018-03",
+      "url": "https://www.bc.cas.cz",
+      "startDate": "2018-03-01",
       "endDate": "",
       "summary": "Research in molecular evolution, genomics, and related projects.",
       "highlights": []
