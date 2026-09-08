@@ -32,15 +32,6 @@
       "endDate": "",
       "summary": "Collaborative research in ancient genomics and population history.",
       "highlights": []
-    },
-    {
-      "name": "Biology Centre of the Czech Academy of Sciences",
-      "position": "Research assistant",
-      "url": "https://www.bc.cas.cz",
-      "startDate": "2018-03-01",
-      "endDate": "2019-09-30",
-      "summary": "Research in molecular evolution, genomics, and related projects.",
-      "highlights": []
     }
   ],
   "volunteer": [],
@@ -132,15 +123,15 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Full professional proficiency"
-    },
-    {
-      "language": "Czech",
-      "fluency": "Native or bilingual"
+      "fluency": "C1"
     },
     {
       "language": "Russian",
-      "fluency": "Native"
+      "fluency": "C2 (Native)"
+    },
+    {
+      "language": "Czech",
+      "fluency": "B1"
     }
   ],
   "interests": [],
